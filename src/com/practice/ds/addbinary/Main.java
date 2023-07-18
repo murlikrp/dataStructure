@@ -1,5 +1,16 @@
 package com.practice.ds.addbinary;
 
+/* Given two binary strings a and b, find their sum as a binary string ie perform binary addition operation on these values
+
+Contraints: 1<=a.length, b.length <= 104
+
+Write java program. Implement method/function with name ‘solve’.
+
+The method accepts following parameters:
+1. A is of type string
+2. B is of type string
+Return String */
+
 public class Main {
 	
 	public static String solve(String a, String b) {
