@@ -1,4 +1,4 @@
-package com.practice.ds.movearray;
+package com.practice.ds.movezeros;
 
 /* Given an integer array nums[], move all 0’s to the end of it while maintaining the relative order of the non-zero elements.
 Note: You must do this in-place without making a copy of array
