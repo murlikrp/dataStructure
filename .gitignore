@@ -25,3 +25,4 @@ replay_pid*
 
 #ds store files
 *.DS_Store
+/bin/
